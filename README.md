@@ -12,3 +12,5 @@ python Cwebscan.py x.txt -p 80,443 -t 50   -p：指定端口（默认会扫描�
 
 
 <img width="895" alt="image" src="https://github.com/lemonlove7/Cwebscanner_pro_max_ultra/assets/56328995/35734e91-e287-4b63-926c-67e7aa411174">
+
+原版地址：https://github.com/se55i0n/Cwebscanner
